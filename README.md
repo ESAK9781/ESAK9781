@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi There 👋
+
+Not much here. Just a dude who likes to code!
 
 <!--
 **ESAK9781/ESAK9781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
